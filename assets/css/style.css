@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: serif;
     font-size: 20px;
-    background-image: url(../img/biobackground.png);
+    background-image: url(./img/biobackground.png);
 }
 a {
     color: inherit;
@@ -34,7 +34,7 @@ nav {
     width: device-width;
     height: device-height;
     border: 5px solid black;
-    background-image: url(../img/biobackground.png);
+    background-image: url(./img/biobackground.png);
 }
 
 .boss{
@@ -45,7 +45,7 @@ nav {
     margin-left: 10px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../img/boss.png);
+    background-image: url(./img/boss.png);
     border-top-left-radius: 15em 1em;
     border-bottom-right-radius: 15em 1em;
 }
@@ -58,7 +58,6 @@ nav {
     border-radius: 15px;
     margin-top: 0px;
     background-color: lightblue;
-    text-
     font-family: sans-serif;
     font-size: 50px;
 }
@@ -69,7 +68,7 @@ nav {
     width: device-width;
     height: device-height;
     border: 5px solid black;
-    background-image: url(../img/biobackground.png);
+    background-image: url(./img/biobackground.png);
 }
 
 .ShopPhoto{
@@ -80,7 +79,7 @@ nav {
     margin-left: 10px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../img/office.png);
+    background-image: url(./img/office.png);
 }
 
 .ShopText{
@@ -91,7 +90,6 @@ nav {
     border-radius: 15px;
     margin-top: 0px;
     background-color: lightblue;
-    text-
     font-family: sans-serif;
     font-size: 50px;
 }
