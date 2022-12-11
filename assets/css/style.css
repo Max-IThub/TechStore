@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: serif;
     font-size: 20px;
-    background-image: url(../TechStore/assets/img/biobackground.png);
+    background-image: url(/assets/img/biobackground.png);
 }
 a {
     color: inherit;
