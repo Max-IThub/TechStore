@@ -69,7 +69,7 @@ nav {
     width: device-width;
     height: device-height;
     border: 5px solid black;
-    background-image: url(/assets/img/biobackground.png);
+    background-image: url(./assets/img/biobackground.png);
 }
 
 .ShopPhoto{
@@ -80,7 +80,7 @@ nav {
     margin-left: 10px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(assets/img/office.png);
+    background-image: url(./assets/img/office.png);
 }
 
 .ShopText{
