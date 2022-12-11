@@ -45,7 +45,7 @@ nav {
     margin-left: 10px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(/assets/img/boss.png);
+    background-image: "/assets/img/boss.png";
     border-top-left-radius: 15em 1em;
     border-bottom-right-radius: 15em 1em;
 }
